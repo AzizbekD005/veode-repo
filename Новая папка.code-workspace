@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"name": "Новая папка",
+			"path": "..\\Новая папка"
+		},
+		{
+			"name": "media",
+			"path": "..\\media"
+		},
+		{
+			"name": "Google",
+			"path": "..\\Google"
+		},
+		{
+			"name": "vep",
+			"path": "..\\vep"
+		},
+		{
+			"name": "Azizbek",
+			"path": "."
+		},
+		{
+			"name": "box",
+			"path": "..\\box"
+		},
+		{
+			"name": "TOP",
+			"path": "..\\TOP"
+		},
+		{
+			"name": "psd",
+			"path": "..\\psd"
+		},
+		{
+			"name": "INDEX",
+			"path": "..\\INDEX"
+		},
+		{
+			"name": "boss",
+			"path": "..\\boss"
+		},
+		{
+			"name": "win",
+			"path": "..\\win"
+		},
+		{
+			"name": "website",
+			"path": "..\\website"
+		},
+		{
+			"name": "аца",
+			"path": "..\\аца"
+		},
+		{
+			"name": "Bootstrap",
+			"path": "..\\Bootstrap"
+		},
+		{
+			"name": "CSS.2.vazifam",
+			"path": "..\\CSS.2.vazifam"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "psd"
+	}
+}
